@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2025.2 (64-bit)
+# SW Build 6299465 on Fri Nov 14 12:34:56 MST 2025
+# IP Build 6300035 on Fri Nov 14 10:48:45 MST 2025
+# SharedData Build 6298862 on Thu Nov 13 04:50:51 MST 2025
+# Start of session at: Sun Jan 25 11:01:44 2026
+# Process ID         : 9807
+# Current directory  : /home/tom/Documents/Projet_Innovative/project_1.runs/design_1_processing_system7_0_0_synth_1
+# Command line       : vivado -log design_1_processing_system7_0_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source design_1_processing_system7_0_0.tcl
+# Log file           : /home/tom/Documents/Projet_Innovative/project_1.runs/design_1_processing_system7_0_0_synth_1/design_1_processing_system7_0_0.vds
+# Journal file       : /home/tom/Documents/Projet_Innovative/project_1.runs/design_1_processing_system7_0_0_synth_1/vivado.jou
+# Running On         : tom
+# Platform           : Ubuntu
+# Operating System   : Ubuntu 24.04.3 LTS
+# Processor Detail   : Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz
+# CPU Frequency      : 4000.010 MHz
+# CPU Physical cores : 4
+# CPU Logical cores  : 8
+# Host memory        : 16681 MB
+# Swap memory        : 16000 MB
+# Total Virtual      : 32681 MB
+# Available Virtual  : 27989 MB
+#-----------------------------------------------------------
+source design_1_processing_system7_0_0.tcl -notrace
