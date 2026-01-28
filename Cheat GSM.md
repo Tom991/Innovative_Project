@@ -2,6 +2,10 @@
 
 ## Gestion SIM / Modem
 
+
+# AT+IPR=9600 -> changer le baud
+
+
 | Commande | Description | Réponse attendue |
 |----------|------------|----------------|
 | `AT+CPIN="0000"` | Entrer le code PIN | `SMS DONE / PB DONE` |
